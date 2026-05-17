@@ -1,1 +1,3 @@
-# CP - from - first - principles
+ CP - from - first - principles
+
+Hi i am nishkarsh
