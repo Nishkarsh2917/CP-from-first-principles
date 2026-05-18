@@ -10,13 +10,17 @@ Before starting the Week 1 problem set, revise the basics of C++ STL.
 
 - [C++ STL Playlist](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=D_lLNbOAkji8Lw5F)
 
+### Time Complexity
+
+- [Time Complexity](https://www.youtube.com/watch?v=M0tgJaQAo60&list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-&index=15&pp=iAQB0gcJCQQLAYcqIYzv)
+
 ### Prefix Sums
 
-- [Prefix Sum and Difference Array Video](https://www.youtube.com/watch?v=nZe7P674xZo&pp=ygUfcHJlZml4IHN1bSBhbmQgZGlmZmVyZW5jZSBhcnJheQ%3D%3D)
+- [Prefix Sum](https://www.youtube.com/watch?v=nZe7P674xZo&pp=ygUfcHJlZml4IHN1bSBhbmQgZGlmZmVyZW5jZSBhcnJheQ%3D%3D)
 
 ### Difference Arrays
 
-- [Difference Array Technique Search Results](https://www.youtube.com/results?search_query=difference+array+technique)
+- [Difference Array Playlist](https://www.youtube.com/watch?v=ZHNVmtm08WY&list=PLpIkg8OmuX-Kqkb8DqDe_4-Tiav6ilS_L)
 
 ### Articles
 
@@ -52,12 +56,13 @@ The following problems from Sheet 1 are mandatory:
 - X. Two intervals
 - Z. Hard Compare
 
-- And atleast 10 problems from sheet - 2
+Also solve at least 10 problems from Sheet 2.
 
 ## Suggested Approach
 
 1. Revise the basics of C++ STL.
-2. Watch the prefix sums and difference arrays resources.
-3. Start with the mandatory Sheet 1 problems.
-4. Continue solving additional problems from Sheet 1 and Sheet 2.
-5. Write clean code and review mistakes after each submission.
+2. Understand time complexity before solving problems.
+3. Watch the prefix sums and difference arrays resources.
+4. Start with the mandatory Sheet 1 problems.
+5. Continue solving additional problems from Sheet 1 and Sheet 2.
+6. Write clean code and review mistakes after each submission.
