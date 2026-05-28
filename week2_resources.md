@@ -37,7 +37,7 @@ These problems are based on related ideas like checking sums, using prefix sums,
 - [Subarray Sums II - CSES](https://cses.fi/problemset/task/1661)
 - [Subarray Divisibility - CSES](https://cses.fi/problemset/task/1662)
 
-### Sorting, Greedy, and Two Pointers
+### Sorting, Greedy
 
 These problems are very useful for building the kind of logical thinking that appears again and again in Codeforces.
 Spend atleast 1 hour on these problems before looking to some hint or solution .
